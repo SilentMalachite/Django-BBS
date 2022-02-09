@@ -24,5 +24,5 @@ python manage.py startapp snsapp
 
 ## 進捗状況
 
-現在、認証用のコードを書き終えたところ。
-viewの部分とテンプレート部分を次回書く。
+現在、テンプレートやCSSコードを書き終えたところ。
+テンプレートはBootstrapを使用。
