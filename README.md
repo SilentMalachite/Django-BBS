@@ -25,5 +25,4 @@ python manage.py startapp snsapp
 
 ## 進捗状況
 
-現在、テンプレートやCSSコードを書き終えたところ。
-テンプレートはBootstrapを使用。
+約１ヶ月ぶりに更新。テンプレートの細部を調整する
